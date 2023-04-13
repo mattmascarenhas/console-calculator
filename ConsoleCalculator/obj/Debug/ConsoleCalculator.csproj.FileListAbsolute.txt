@@ -1,0 +1,8 @@
+D:\C#\ConsoleCalculator\ConsoleCalculator\bin\Debug\ConsoleCalculator.exe.config
+D:\C#\ConsoleCalculator\ConsoleCalculator\bin\Debug\ConsoleCalculator.exe
+D:\C#\ConsoleCalculator\ConsoleCalculator\bin\Debug\ConsoleCalculator.pdb
+D:\C#\ConsoleCalculator\ConsoleCalculator\obj\Debug\ConsoleCalculator.csproj.AssemblyReference.cache
+D:\C#\ConsoleCalculator\ConsoleCalculator\obj\Debug\ConsoleCalculator.csproj.SuggestedBindingRedirects.cache
+D:\C#\ConsoleCalculator\ConsoleCalculator\obj\Debug\ConsoleCalculator.csproj.CoreCompileInputs.cache
+D:\C#\ConsoleCalculator\ConsoleCalculator\obj\Debug\ConsoleCalculator.exe
+D:\C#\ConsoleCalculator\ConsoleCalculator\obj\Debug\ConsoleCalculator.pdb
